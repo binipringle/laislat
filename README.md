@@ -1,4 +1,4 @@
-# minicomp/wax 🐝
+# laislat 🐝
 [![Gem Version](https://badge.fury.io/rb/wax_theme.svg)](https://badge.fury.io/rb/wax_tasks)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Build Status](https://travis-ci.com/minicomp/wax.svg?branch=master)](https://travis-ci.com/minicomp/wax)
@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/github/license/minicomp/wax_tasks.svg?color=c6a1e0)
 
 
-__Laislat is the test site for laislab.__<br>
+__laislat is the test site for laislab.__<br>
 It's built with ([wax](https://github.com/minicomp/wax/), an extensible workflow for producing scholarly exhibitions with minimal computing principles. Laislat includes __Ruby gems__ for processing image data and associated metadata. Check out Wax's documentation to see how this site was built.
 
 This gif is on the Wax demo site (I will replace it when Ilian and Gise give me a gif and I figure out where it needs to live):
