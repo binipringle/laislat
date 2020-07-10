@@ -23,11 +23,6 @@ layout: none
       "label": "obj6"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj7/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "obj7"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj10/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj10"
@@ -36,6 +31,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj5/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj7"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj3/manifest.json",
