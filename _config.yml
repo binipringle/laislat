@@ -120,6 +120,8 @@ menu:
         link: '/exhibits/c/'
       - label: 'Inline Image References 2'
         link: '/exhibits/d/'
+      - label: 'Inline Image References 3'
+        link: '/exhibits/e/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
