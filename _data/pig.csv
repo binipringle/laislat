@@ -1,0 +1,2 @@
+pid,artist,location,label,_date,object_type,current_location,source,order,thumbnail,full,manifest,layout,collection
+obj1,Ilian Sanchez Rodriguez,Colombia,PIG,2016,ilustracion,La Isla Bonita Gallery Barranquilla,Colleccion Ilian Sanchez,7,"/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj7/full/full/0/default.jpg,/img/derivatives/iiif/obj7/manifest.json,laislab_item,laislab
