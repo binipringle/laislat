@@ -1,6 +1,6 @@
-pid,artist,location,label,_date,object_type,current_location,source,order,thumbnail,full,manifest,layout,collection
-obj1,Come Gise Okso Yarbi,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,1,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj1/full/full/0/default.jpg,/img/derivatives/iiif/obj1/manifest.json,graffitti_item,graffitti
-obj2,Gise Come Okso Yarbi,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,2,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj2/full/full/0/default.jpg,/img/derivatives/iiif/obj2/manifest.json,graffitti_item,graffitti
-obj3,Gise,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,3,"/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj3/full/full/0/default.jpg,/img/derivatives/iiif/obj3/manifest.json,graffitti_item,graffitti
-obj4,Come,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,4,"/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj4/full/full/0/default.jpg,/img/derivatives/iiif/obj4/manifest.json,graffitti_item,graffitti
-obj5,Yarbi Okso Come Gise,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,5,"/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj5/full/full/0/default.jpg,/img/derivatives/iiif/obj5/manifest.json,graffitti_item,graffitti
+﻿pid,artist,location,label,_date,object_type,current_location,source,order,thumbnail,full,manifest
+obj11,Come Gise Okso Yarbi,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,1,,,
+obj12,Gise Come Okso Yarbi,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,2,,,
+obj13,Gise,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,3,,,
+obj14,Come,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,4,,,
+obj15,Yarbi Okso Come Gise,Colombia,paseo ,2019,Pintura en aerosol,Barranquilla ,Foto de Ilian Sanchez,5,,,
